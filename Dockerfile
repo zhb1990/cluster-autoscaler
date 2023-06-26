@@ -1,1 +1,1 @@
-FROM registry.k8s.io/autoscaling/cluster-autoscaler:v1.21.3
+FROM registry.k8s.io/autoscaling/cluster-autoscaler:v1.23.1
